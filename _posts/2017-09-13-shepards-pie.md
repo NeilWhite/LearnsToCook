@@ -6,6 +6,7 @@ subtitle: "or something that resembles one"
 modifed: 2017-09-13
 tags: [Crockpot, Pie, Lamb]
 cooking: "~8 Hours"
+feeds: "4+"
 
 ---
 
@@ -14,13 +15,13 @@ cooking: "~8 Hours"
 ## Ingredients
 
 ### Filling
- - Lamb: 
+ - Lamb: &#xbd;-1 lbs *(little over half lbs feeds 4 comfortably in my experience)*
  - Carrots: 3 Large
  - Potatos: 3 Large
  - Onion: &#xbd; Large
  - Garlic:
  - Stock Cube: 2 *(I use beef because it's what I have)*
- - Paprika: &#xbd; Teaspoon
+ - Paprika: &#xbd; Tsp
  - Cornflour *(corn starch for those in the US)*
  - Salt
  - Pepper

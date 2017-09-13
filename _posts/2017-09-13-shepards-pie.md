@@ -1,6 +1,6 @@
 ---
 
-layout: post
+layout: default
 title: "Shepards Pie"
 subtitle: "or something that resembles one"
 modifed: 2017-09-13
